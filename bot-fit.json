@@ -1,0 +1,15 @@
+//gerar a chave pelo https://dialogflow.cloud.google.com/ e adicione no arquivo json
+
+
+{
+  "type": "service_account",
+  "project_id": "new_agent-ygbiry",
+  "private_key_id": "4654564564564654564",
+  "private_key": "646545645165",
+  "client_email": "teste@gmail.com.br",
+  "client_id": "567878789798798",
+  "auth_uri": "https://cloud.google.com/dialogflow/docs",
+  "token_uri": "https://cloud.google.com/dialogflow/docs4654545",
+  "auth_provider_x509_cert_url": "https://cloud.google.com/dialogflow/docs4654545",
+  "client_x509_cert_url": "https://cloud.google.com/dialogflow/docs4654545"
+}
